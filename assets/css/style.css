@@ -1,0 +1,88 @@
+body {
+    padding-top: 75px;
+}
+
+.cart-block {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.panel-list a {
+    display: block;
+    color: #666;
+}
+
+.panel-list .panel-heading h3 {
+    padding: 4px;
+    font-size: 18px;
+}
+
+.panel-heading-green {
+    background: #3b7e14 !important;
+    color: #fff !important;
+}
+
+.panel-heading-dark {
+    background: #333333 !important;
+    color: #fff !important;
+}
+
+.game-title {
+    text-align: center;
+    padding: 5px;
+    background: #333;
+    color: #fff;
+}
+
+.game-image {
+    position: relative;
+}
+
+.game-image img {
+    width: 100%;
+}
+
+.game-price {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: #3b7e14;
+    color: #fff;
+    padding: 5px;
+    font-size: 1.25rem;
+}
+
+.game-add {
+    margin: 5px auto 20px auto;
+    width: 100%;
+    text-align: center;
+}
+
+.qty {
+    width: 40px;
+    color: #666;
+    text-align: center;
+}
+
+.details-title {
+    margin: 0 0 10px;
+}
+
+.details-title h3 {
+    margin: 0;
+}
+
+.details-price {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.details img {
+    width: 100%;
+}
+
+.details-description {
+    margin-bottom: 20px;
+}
